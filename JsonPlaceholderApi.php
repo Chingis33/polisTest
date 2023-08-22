@@ -7,7 +7,7 @@ class JsonPlaceholderApi
     /**
      * @param string $url
      * @param string $method
-     * @param array $data
+     * @param array|null $data
      * @return array
      * @throws Exception
      */
